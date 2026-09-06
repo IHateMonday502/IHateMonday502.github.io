@@ -1,5 +1,53 @@
 [
   {
+    "title": "Las cuadrillas de Entergy Texas se acercan a la fase final del restablecimiento del servicio tras la tormenta tropical Edouard",
+    "summary": "Se espera restablecer el servicio esta noche a todos los clientes cuyas instalaciones puedan recibir electricidad de manera segura. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/las-cuadrillas-de-entergy-texas-se-acercan-a-la-fase-final-del-restablecimiento-del-servicio-tras-la-tormenta-tropical-edouard",
+    "timestamp": "2026-09-05T20:37:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/las-cuadrillas-de-entergy-texas-se-acercan-a-la-fase-final-del-restablecimiento-del-servicio-tras-la-tormenta-tropical-edouard"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-05T20:37:23Z",
+    "id": "energy-322981bd560dd04d"
+  },
+  {
+    "title": "Entergy Texas crews near the end of Tropical Storm Edouard restoration",
+    "summary": "All impacted customers who can safely take power are expected to be restored tonight Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-texas-crews-near-the-end-of-tropical-storm-edouard-restoration",
+    "timestamp": "2026-09-05T19:13:14Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-texas-crews-near-the-end-of-tropical-storm-edouard-restoration"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-05T19:13:14Z",
+    "id": "energy-01a82624e7636416"
+  },
+  {
     "title": "Westinghouse, Nordion, and PSEG team up to produce Co‑60 in the United States",
     "summary": "This past January, Westinghouse Electric Company, Nordion, and PSEG Nuclear formalized agreements to implement newly developed cobalt-60 production technology at Units 1 and 2 of PSEG’s Salem nuclear power plant in New Jersey, with the Co-60 to be supplied to Nordion. Through an ongoing joint initiative, the companies aim to harness U.S. pressurized water reactors to produce a key medical isotope and build the first commercial-scale Co-60 production platform in the United States.",
     "source": "ANS Newswire",
@@ -68,30 +116,6 @@
     "id": "energy-6bbc7995d6374b77"
   },
   {
-    "title": "Investing in Louisiana’s future: Entergy and Quanta award scholarships to future lineworkers",
-    "summary": "A reliable and resilient electric system depends on more than infrastructure. It depends on the skilled men and women who build, maintain and restore it. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/investing-in-louisianas-future-entergy-and-quanta-award-scholarships-to-future-lineworkers",
-    "timestamp": "2026-09-04T16:09:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/investing-in-louisianas-future-entergy-and-quanta-award-scholarships-to-future-lineworkers"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-04T16:09:59Z",
-    "id": "energy-2e5ed3096d8b1e26"
-  },
-  {
     "title": "NRC proposes rule for decommissioning timelines, groundwater protection",
     "summary": "The Nuclear Regulatory Commission is proposing a new rule that addresses two different aspects of agency oversight. In “In Situ Recovery Monitoring and Decommissioning Timeliness,” published online on September 1, the NRC proposes in the first part of the new rule to establish risk-informed criteria for protecting drinking water from radiological and nonradiological contamination near uranium in situ recovery (ISR) sites. In the second part of the rule, the NRC proposes to streamline the process for extending decommissioning timelines for all licensees.",
     "source": "ANS Newswire",
@@ -112,30 +136,6 @@
     ],
     "data_as_of": "2026-09-04T14:29:22Z",
     "id": "energy-23dddf1210f656f7"
-  },
-  {
-    "title": "Entergy Texas Tropical Storm Edouard update – 9/4/2026, 9 a.m.",
-    "summary": "Entergy Texas crews have restored power to more than 90% of customers impacted by Edouard. As of 9 a.m. Friday, approximately 6,000 customers remain without power, down from a peak of approximately 80,000 customers impacted by the storm. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-4-2026-9-a-m",
-    "timestamp": "2026-09-04T13:40:23Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-4-2026-9-a-m"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-04T13:40:23Z",
-    "id": "energy-fefd1c6f1b6ebeb2"
   },
   {
     "title": "ISO-NE staff share expertise in conferences, webcasts",

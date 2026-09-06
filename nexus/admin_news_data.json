@@ -1,57 +1,246 @@
 [
   {
-    "title": "What time does Mastery Monday start in Fortnite Chapter 7 Season 4?",
-    "summary": "Mastery Monday gives you more sprite XP and dust in Fortnite Chapter 7 Season 4. Here's what time it starts in your time zone.",
+    "title": "BG3's Best Evil Playthrough Replacement Is Waiting to Be Rediscovered on Steam",
+    "summary": "Tyranny casts you as an enforcer for a god-emperor who already won the war. If Baldur's Gate 3's evil playthroughs left you wanting more, play this",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-mastery-monday-time-what-when/",
-    "timestamp": "2026-09-05T13:01:14Z",
+    "url": "https://www.polygon.com/tyranny-crpg-obsidian-baldurs-gate-3-evil-playthrough/",
+    "timestamp": "2026-09-06T13:00:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/fortnite-chapter-7-season-4-mastery-monday-time-what-when/"
+      "https://www.polygon.com/tyranny-crpg-obsidian-baldurs-gate-3-evil-playthrough/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-05T13:01:14Z",
-    "id": "energy-2d8e8041723e2009"
+    "data_as_of": "2026-09-06T13:00:14Z",
+    "id": "energy-f0650e3adb889200"
   },
   {
-    "title": "Onimusha: Way of the Sword Has the Best Parry in Video Games",
-    "summary": "Onimusha: Way of the Sword masters the art of the video game parry thanks to a close attention to sound, feel, and animation.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/onimusha-way-of-the-sword-best-parry/",
-    "timestamp": "2026-09-05T13:00:15Z",
-    "topic": "Gaming",
+    "title": "Schemy Lisp En DOS",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://sled.neocities.org/",
+    "timestamp": "2026-09-06T12:58:54Z",
+    "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/onimusha-way-of-the-sword-best-parry/"
+      "https://sled.neocities.org/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-05T13:00:15Z",
-    "id": "energy-7c73f96d21aa2afd"
+    "data_as_of": "2026-09-06T12:58:54Z",
+    "id": "energy-10205d80182ec6d1"
   },
   {
-    "title": "Mario Kart 8 Refuses to Let the Switch 2 Rule Nintendo",
-    "summary": "After the 4.0 update with 8-player split-screen, everyone's talking about it instead of Mario Kart World. Awkward!",
+    "title": "The pencil case model of creativity",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+    "timestamp": "2026-09-06T12:05:34Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://dub.uu.nl/en/column/pencil-case-model-creativity"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-06T12:05:34Z",
+    "id": "energy-c3460cfc63f58269"
+  },
+  {
+    "title": "GOTY 2026 is the Weakest Field in Years",
+    "summary": "In the shadow of GTA 6, other 2026 GOTY contenders like The Blood of Dawnwalker keep missing the mark.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/switchboard-mario-kart-8-deluxe-update-4-0/",
-    "timestamp": "2026-09-05T12:00:14Z",
+    "url": "https://www.polygon.com/goty-2026-game-awards-blood-dawnwalker-onimusha-orbitals/",
+    "timestamp": "2026-09-06T12:00:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/switchboard-mario-kart-8-deluxe-update-4-0/"
+      "https://www.polygon.com/goty-2026-game-awards-blood-dawnwalker-onimusha-orbitals/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-05T12:00:14Z",
-    "id": "energy-921a70ce05e26d5c"
+    "data_as_of": "2026-09-06T12:00:14Z",
+    "id": "energy-af683de301c22fbe"
+  },
+  {
+    "title": "Intellectual Fly Is Open",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "timestamp": "2026-09-06T11:56:43Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-06T11:56:43Z",
+    "id": "energy-1fd20f3fc0c58ca7"
+  },
+  {
+    "title": "5 Most Shocking Anime Deaths Of The 21st Century",
+    "summary": "These anime deaths completely changed the trajectory of these stories.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/most-shocking-character-deaths-anime-21st-century/",
+    "timestamp": "2026-09-06T11:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/most-shocking-character-deaths-anime-21st-century/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-06T11:00:14Z",
+    "id": "energy-7c0c20ed7fb2beaa"
+  },
+  {
+    "title": "Is Rocket League the only esport whose format is completely different than the primary ranked mode? (3v3 vs 2v2)",
+    "summary": "I know the conditions in ranked versus scrims vs competition are different in pretty much every esport, but is there any other game with as big a discrepancy as team size? submitted by /u/daytonnnnnn [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w8nyld/is_rocket_league_the_only_esport_whose_format_is/",
+    "timestamp": "2026-09-06T06:08:31Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w8nyld/is_rocket_league_the_only_esport_whose_format_is/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-06T06:08:31Z",
+    "id": "energy-3360acd27dc8a8c3"
+  },
+  {
+    "title": "Pinned Threads",
+    "summary": "This post contains content not supported on old Reddit. to view the full post submitted by /u/RLEsportsMods [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w8nbw2/pinned_threads/",
+    "timestamp": "2026-09-06T05:33:39Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w8nbw2/pinned_threads/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-06T05:33:39Z",
+    "id": "energy-f5fca01ba72df0d6"
+  },
+  {
+    "title": "Any more mechanics?",
+    "summary": "The skill ceiling of Rocket League mechanics hasn't been raised even slightly for a while. Of course, top players have been steadily increasing in consistency, resulting in a greater volume of increasingly elaborate shots, but none of it is *new.* There are no brand new possibilities, everybody is either playing catch-up or refining what they already have. Every new mechanic in recent years has felt like a joke. The Raddah reset, TKO reset, MENA dash—some pro will master an existing mechanic that has been around for years but with a somewhat uncommon setup, the community stamps a name on it, and that's the closest to *new* we get. If we don't count niche mechanics that get largely ignored by the population (e.g. the double curve dash), the last genuinely new mechanic is the horse dash reset from over a year ago, and the last new mechanic that is used in the RLCS would be wall spam from FIVE years ago. I know it's way too late into the game's life span to be expecting new car-to-ball or car-to-surface interactions popping up left and right, but when the greatest bits of innovation the RLCS has to offer are dash resets off the wall, touching the ball before a Rapid reset, and flippi…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w8ljko/any_more_mechanics/",
+    "timestamp": "2026-09-06T03:59:32Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w8ljko/any_more_mechanics/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-06T03:59:32Z",
+    "id": "energy-1a3aae2349dd7891"
+  },
+  {
+    "title": "Former Old School RuneScape Developer Sentenced For Stealing In-Game Gold From Players",
+    "summary": "Under investigation since 2019, Andrew ‘Mod Jed’ Lakeman could face three years in prison after crypto laundering half a million worth of in-game loot",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/former-old-school-runescape-developer-sentenced-for-stealing-in-game-gold-from-players-2000731568",
+    "timestamp": "2026-09-05T20:52:21Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/former-old-school-runescape-developer-sentenced-for-stealing-in-game-gold-from-players-2000731568"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-05T20:52:21Z",
+    "id": "energy-2c9ccfa2b69ab9a5"
+  },
+  {
+    "title": "Epic Games CEO Tim Sweeney Says The Industry Is Crashing And AI Is Making It Worse",
+    "summary": "Usually playing the cheerleader for artificial intelligence, the Epic CEO seems to have cooled on the trend and regrets humoring NFTs",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/epic-games-ceo-tim-sweeney-says-the-industry-is-crashing-and-ai-is-making-it-worse-2000731564",
+    "timestamp": "2026-09-05T20:04:57Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/epic-games-ceo-tim-sweeney-says-the-industry-is-crashing-and-ai-is-making-it-worse-2000731564"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-05T20:04:57Z",
+    "id": "energy-7d595f1468f5412f"
+  },
+  {
+    "title": "Following Pokémon, Stern Lets Fallout Pinball Machine Out Of The Vault",
+    "summary": "The largest pinball company delves further into the video game themes, albeit with one largely taking inspiration from its TV adaptation",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/following-pokemon-stern-lets-fallout-pinball-machine-out-of-the-vault-2000731561",
+    "timestamp": "2026-09-05T17:56:53Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/following-pokemon-stern-lets-fallout-pinball-machine-out-of-the-vault-2000731561"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-05T17:56:53Z",
+    "id": "energy-2fad7557681a51ba"
+  },
+  {
+    "title": "Initial D artist MOTSU releases FREE zero-latency vocal tuner MotTune MIDI",
+    "summary": "MOTSU and DeeJei.Tokyo have released MotTune MIDI, a free real-time vocal pitch correction and vocoder plugin for macOS and Windows. Initial D is one of my favorite anime series, along with Slam Dunk. I binged it back when I had time to binge, so getting an email from someone who worked on its legendary soundtrack [...] View post: Initial D artist MOTSU releases FREE zero-latency vocal tuner MotTune MIDI",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/05/mottune-midi/",
+    "timestamp": "2026-09-05T14:25:57Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/05/mottune-midi/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-05T14:25:57Z",
+    "id": "energy-6580b44dc2f77681"
   },
   {
     "title": "NEVER FOUND releases VT-Mini, a FREE vocal tuner for Windows",
@@ -88,195 +277,6 @@
     "primary_source": false,
     "data_as_of": "2026-09-05T10:35:11Z",
     "id": "energy-f448c19fb670474f"
-  },
-  {
-    "title": "Terpstra Keyboard",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "http://terpstrakeyboard.com/",
-    "timestamp": "2026-09-05T10:33:01Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "http://terpstrakeyboard.com/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-05T10:33:01Z",
-    "id": "energy-0ea559e74fb5a7ab"
-  },
-  {
-    "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-    "timestamp": "2026-09-05T10:14:28Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-05T10:14:28Z",
-    "id": "energy-163e1caf11d95d84"
-  },
-  {
-    "title": "RIPPLES releases Pulse, a FREE rhythmic volume shaper plugin",
-    "summary": "RIPPLES Music has released Pulse, a free rhythmic volume shaper plugin for macOS and Windows. Pulse combines sidechain-style pumping, rhythmic gating, and LFO volume shaping in a simple interface with an editable curve. This type of plugin was first made by Cableguys around a decade ago with their legendary FilterShaper. There have been quite a [...] View post: RIPPLES releases Pulse, a FREE rhythmic volume shaper plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/05/ripples-pulse/",
-    "timestamp": "2026-09-05T09:59:02Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/05/ripples-pulse/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-05T09:59:02Z",
-    "id": "energy-29a660135a965f00"
-  },
-  {
-    "title": "AI handles incidents, engineers lose touch with their systems",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "timestamp": "2026-09-05T07:52:50Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-05T07:52:50Z",
-    "id": "energy-d32199e06409fbf0"
-  },
-  {
-    "title": "[Throwback] Comm sets a record with 20 demos in a single RLCS game",
-    "summary": "Have a happy retirement Comm! Full game here: https://www.youtube.com/live/MgVnqHUeQoQ?t=2518&is=Q3AW_-8uYMSTieUO submitted by /u/N0b0dy_her3 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w7t2is/throwback_comm_sets_a_record_with_20_demos_in_a/",
-    "timestamp": "2026-09-05T06:40:10Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w7t2is/throwback_comm_sets_a_record_with_20_demos_in_a/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-05T06:40:10Z",
-    "id": "energy-c04031c092e500d6"
-  },
-  {
-    "title": "Double Fine Boss Says ‘We Never Actively Tried To Make A Game We Thought Was Going To Lose Money’",
-    "summary": "Setting the record straight on making artsy games vs. ones that sell",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/double-fine-boss-says-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money-2000731429",
-    "timestamp": "2026-09-04T23:00:27Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/double-fine-boss-says-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money-2000731429"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-04T23:00:27Z",
-    "id": "energy-fe12350550dcb0b4"
-  },
-  {
-    "title": "Tim Schafer Calls Double Fine Leaving Xbox A ‘Creative Awakening’: ‘Asha’s Not Going To Shoot My Dog’",
-    "summary": "The CEO said he had a bad feeling once Phil Spencer retired",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/tim-schafer-calls-double-fine-leaving-xbox-a-creative-awakening-ashas-not-going-to-shoot-my-dog-2000731428",
-    "timestamp": "2026-09-04T22:00:21Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/tim-schafer-calls-double-fine-leaving-xbox-a-creative-awakening-ashas-not-going-to-shoot-my-dog-2000731428"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-04T22:00:21Z",
-    "id": "energy-12e04647460d7b44"
-  },
-  {
-    "title": "Star Wars Zero Company: The Kotaku Review",
-    "summary": "EA’s latest Star Wars game is more than just an XCOM clone, but it's a bit rough around the edges",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/star-wars-zero-company-review-is-it-good-performance-ps5-xcom-2000731426",
-    "timestamp": "2026-09-04T21:40:42Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/star-wars-zero-company-review-is-it-good-performance-ps5-xcom-2000731426"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-04T21:40:42Z",
-    "id": "energy-f01ca4c3711d45e1"
-  },
-  {
-    "title": "The twins' secret 3rd brother RW7 is nominated for Esports MVP of the month",
-    "summary": "https://preview.redd.it/3o442i7joknh1.png?width=588&format=png&auto=webp&s=aad04263501521f1a4b715ce31a80bf33a5b6b0c How do you mess up a 3 letter name submitted by /u/thafreshone [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w7hpjg/the_twins_secret_3rd_brother_rw7_is_nominated_for/",
-    "timestamp": "2026-09-04T21:37:28Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w7hpjg/the_twins_secret_3rd_brother_rw7_is_nominated_for/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-04T21:37:28Z",
-    "id": "energy-12888c87a2c50ac7"
-  },
-  {
-    "title": "Comm Retires From Professional Rocket League",
-    "summary": "submitted by /u/Lobstah-Impostah [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w7h7nv/comm_retires_from_professional_rocket_league/",
-    "timestamp": "2026-09-04T21:18:00Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w7h7nv/comm_retires_from_professional_rocket_league/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-04T21:18:00Z",
-    "id": "energy-efa855581d528229"
   },
   {
     "title": "Data Center To Cover All Energy Upgrades, Utility Official Says",
